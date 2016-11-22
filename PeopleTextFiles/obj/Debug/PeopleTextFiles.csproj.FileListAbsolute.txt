@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\bin\Debug\PeopleTextFiles.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\bin\Debug\PeopleTextFiles.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\bin\Debug\PeopleTextFiles.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\obj\Debug\PeopleTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\obj\Debug\PeopleTextFiles.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\PeopleTextFiles\PeopleTextFiles\obj\Debug\PeopleTextFiles.pdb
